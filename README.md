@@ -26,5 +26,5 @@ Clicking each of these buttons will open a `web page` in the internal browser (w
 
 
 # Regards
-Thank you JetBrains for the opportunity to become a part of WEBTeamUI during the summer internship
+**Thank you JetBrains for the opportunity to become a part of WEBTeamUI during the summer internship**
     
