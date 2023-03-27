@@ -7,11 +7,11 @@ import java.awt.BorderLayout;
 import org.jetbrains.annotations.NotNull;
 
 
-
 import javax.swing.*;
 
 
 public class PluginButton extends AnAction {
+
   @Override
   public void actionPerformed(@NotNull AnActionEvent e) {
     String[] options = {"WevTeam people", "JCEF repository"};
