@@ -14,7 +14,7 @@ public class PluginButton extends AnAction {
 
   @Override
   public void actionPerformed(@NotNull AnActionEvent e) {
-    String[] options = {"WevTeam people", "JCEF repository"};
+    String[] options = {"WebTeamUI people", "JCEF repository"};
     int choice = JOptionPane.showOptionDialog(null, "Choose a website to open", "Website Selector",
         JOptionPane.YES_NO_OPTION, JOptionPane.PLAIN_MESSAGE, null, options, options[0]);
 
