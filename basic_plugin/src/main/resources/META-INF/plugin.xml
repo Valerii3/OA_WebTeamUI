@@ -27,8 +27,8 @@
 
   </extensions>
   <actions>
-    <action id="WindowButton"
-      class="PluginButton" text="Plugin Button"
+    <action id="com.valerii.ov.basic_plugin.PluginButton"
+      class="com.valerii.ov.basic_plugin.PluginButton" text="Plugin Button"
       description="This button opens new window">
       <add-to-group group-id="Internal.UI.Demos" anchor="first"/>
     </action>
